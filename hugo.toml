@@ -1,4 +1,4 @@
-baseURL = 'https://blogdemo-8l8.pages.dev'
+baseURL = 'https://demoblog.gaomian.org'
 locale  = 'zh-cn'
 title = '这是我的博客'
 theme = "papermod"
