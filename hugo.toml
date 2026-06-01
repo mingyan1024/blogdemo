@@ -1,7 +1,7 @@
 baseURL = 'https://abc.org'
 languageCode = 'zh-cn'
 title = '这是我的博客'
-theme = "PaperMod"
+theme = "papermod"
 
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
