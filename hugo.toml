@@ -1,0 +1,30 @@
+baseURL = 'https://abc.org'
+languageCode = 'zh-cn'
+title = '这是我的博客'
+theme = "PaperMod"
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+
+[params]
+  author = "AAA显卡批发黄老板"
+  description = "黄老板的技术博客，专注分享 AI、Web 开发、App 开发领域的实用教程与技术思考，帮助开发者少走弯路。"
+  ShowToc = true
+
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "博客"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "联系我"
+    url = "/about/"
+    weight = 3
